@@ -8,10 +8,6 @@ nocite: |
 link-citations: true
 ---
 
-| Naam | Nick Klaver |
-| -------------- | --------------- |
-| Student nummer | 500879567 |
-| Studie | Technische Informatica |
-| Studiejaar | 2024 |
+
 
 \pagebreak
