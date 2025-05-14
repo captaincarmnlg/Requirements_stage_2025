@@ -8,7 +8,7 @@
     * Physical play encouragement
     * Support various kinds of play
 * Programmable
-* Speechrecognition
+* Speech recognition
 * Autonomous
 * Privacy friendly interaction
 * Save for children
@@ -20,7 +20,7 @@
 * Low cost
 * Durability
 * Mobility
-* Opensource
+* Open source
 
 ## Could have
 
@@ -29,11 +29,11 @@
 * Builtin Tablet/phone
 * Personality for each kid.
 
-## Wont have
+## Won't have
 
 * Face recognition
 * Data collection
-* Celular internet(4g/5g)
+* Cellular internet(4g/5g)
 * Participation in play
 
 
